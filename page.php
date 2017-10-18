@@ -1,6 +1,6 @@
 <?php
 // Base page extended by other pages of the application
-// TODO: Need to change the url and upload_dir if needed
+
 abstract class page {
   protected $html;
   protected $UPLOAD_DIR = 'uploads/';
