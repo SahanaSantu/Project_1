@@ -9,7 +9,7 @@ class table extends page {
     $this->html .= $table;
   }
 
-  // Function to draw table
+  // Function to display the array of file in html table
  
   private function draw($file) {
   
